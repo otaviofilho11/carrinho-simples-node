@@ -5,9 +5,8 @@ Um sistema simples em Node.js e JavaScript para gerenciamento e controle de esto
 ## 📌 Funcionalidades
 
 - Cadastro, edição e remoção de produtos
-- Controle de entrada e saída de estoque
-- Alertas de itens com estoque baixo
-- Histórico de movimentações
+- Busca mais caro e barato
+- Listar Produtos
 
 ## 🛠️ Tecnologias
 
